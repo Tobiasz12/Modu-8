@@ -10,6 +10,7 @@ class App extends Component {
     )
   }
 }
+
 const Home = () => <h1>Hello from Home!</h1>
 const Address = () => <h1>We are located at 96 Szyszków.</h1>
 
